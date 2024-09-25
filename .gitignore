@@ -1,1 +1,3 @@
 guienv/
+/02_Qt_Designer/04_CompileUiToPython/__pycache__
+/02_Qt_Designer/05_Designer_Resources/__pycache__
