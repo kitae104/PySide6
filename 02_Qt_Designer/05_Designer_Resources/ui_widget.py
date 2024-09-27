@@ -55,11 +55,14 @@ class Ui_Widget(object):
     def setupUi(self, Widget):
         if not Widget.objectName():
             Widget.setObjectName("Widget")
-        Widget.resize(474, 72)
+        Widget.resize(467, 42)
         self.horizontalLayout = QHBoxLayout(Widget)
         self.horizontalLayout.setObjectName("horizontalLayout")
         self.btn_minus = QPushButton(Widget)
         self.btn_minus.setObjectName("btn_minus")
+        icon = QIcon()
+        icon.addFile(":/images/minus.png", QSize(), QIcon.Mode.Normal, QIcon.State.Off)
+        self.btn_minus.setIcon(icon)
 
         self.horizontalLayout.addWidget(self.btn_minus)
 
@@ -70,6 +73,9 @@ class Ui_Widget(object):
 
         self.btn_plus = QPushButton(Widget)
         self.btn_plus.setObjectName("btn_plus")
+        icon1 = QIcon()
+        icon1.addFile(":/images/plus.png", QSize(), QIcon.Mode.Normal, QIcon.State.Off)
+        self.btn_plus.setIcon(icon1)
 
         self.horizontalLayout.addWidget(self.btn_plus)
 

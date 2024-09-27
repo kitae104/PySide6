@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>474</width>
-    <height>72</height>
+    <width>467</width>
+    <height>42</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -19,6 +19,10 @@
      <property name="text">
       <string>Minus</string>
      </property>
+     <property name="icon">
+      <iconset resource="resource.qrc">
+       <normaloff>:/images/minus.png</normaloff>:/images/minus.png</iconset>
+     </property>
     </widget>
    </item>
    <item>
@@ -28,6 +32,10 @@
     <widget class="QPushButton" name="btn_plus">
      <property name="text">
       <string>Plus</string>
+     </property>
+     <property name="icon">
+      <iconset resource="resource.qrc">
+       <normaloff>:/images/plus.png</normaloff>:/images/plus.png</iconset>
      </property>
     </widget>
    </item>
