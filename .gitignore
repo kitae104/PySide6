@@ -2,3 +2,6 @@ guienv/
 /02_Qt_Designer/04_CompileUiToPython/__pycache__
 /02_Qt_Designer/05_Designer_Resources/__pycache__
 /02_Qt_Designer/06_QMainWindow/__pycache__
+/03_Dialogs/01_QDialog/__pycache__
+/03_Dialogs/02_QDialogButtonBox/__pycache__
+/03_Dialogs/03_CommonDialog/__pycache__
