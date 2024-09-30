@@ -5,3 +5,5 @@ guienv/
 /03_Dialogs/01_QDialog/__pycache__
 /03_Dialogs/02_QDialogButtonBox/__pycache__
 /03_Dialogs/03_CommonDialog/__pycache__
+/04_Styling/01_Styles/__pycache__
+/04_Styling/02_QPalette/__pycache__
