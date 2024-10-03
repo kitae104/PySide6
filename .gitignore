@@ -9,3 +9,8 @@ guienv/
 /04_Styling/02_QPalette/__pycache__
 /04_Styling/03_DarkStyle/__pycache__
 /04_Styling/04_Stylesheets/__pycache__
+/05_QSettings/01_SaveLoad/__pycache__
+/06_QFileQDir/01_QFile/__pycache__
+/06_QFileQDir/02_QDir/__pycache__
+/07_Network/01_QNetworkAccessManager/__pycache__
+/07_Network/02_JSONApi/__pycache__
