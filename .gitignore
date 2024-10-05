@@ -19,3 +19,7 @@ guienv/
 /08_ModelView/03_QTree/__pycache__
 /08_ModelView/04_QStringListModel/__pycache__
 /08_ModelView/05_QStandardItemModel/__pycache__
+/08_ModelView/06_QStandardItemModel/__pycache__
+/08_ModelView/07_QFileSystemModel/__pycache__
+/08_ModelView/08_CustomTableModel/__pycache__
+/08_ModelView/09_TableModelModification/__pycache__
