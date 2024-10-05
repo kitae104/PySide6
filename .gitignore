@@ -23,3 +23,4 @@ guienv/
 /08_ModelView/07_QFileSystemModel/__pycache__
 /08_ModelView/08_CustomTableModel/__pycache__
 /08_ModelView/09_TableModelModification/__pycache__
+/09_Packaging
