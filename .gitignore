@@ -14,3 +14,8 @@ guienv/
 /06_QFileQDir/02_QDir/__pycache__
 /07_Network/01_QNetworkAccessManager/__pycache__
 /07_Network/02_JSONApi/__pycache__
+/08_ModelView/01_QLIst/__pycache__
+/08_ModelView/02_QTable/__pycache__
+/08_ModelView/03_QTree/__pycache__
+/08_ModelView/04_QStringListModel/__pycache__
+/08_ModelView/05_QStandardItemModel/__pycache__
